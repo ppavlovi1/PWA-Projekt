@@ -1,0 +1,132 @@
+.nav{
+
+    margin-left: 5%;
+    margin-top:2%;
+    
+}
+
+a:hover{
+    background-color: white;
+    color: red;
+}
+a{
+    margin: 2%;
+    color: white;
+    font-weight: bold;
+}
+
+.boja{
+   
+    background-color: red;
+}
+
+.slikaHead{
+    width: 200px;
+    display: inline;
+}
+
+.div1{
+    float: left;
+    margin-left: 5%;
+    margin-right: 1%;
+    border-style: solid;
+    border-radius: 20px;
+  
+}
+.div2{
+    float: left;
+    margin-right: 1%;
+    border-style: solid;
+    border-radius: 5px;
+}
+.div3{
+    float: left;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.ocisti{
+    clear: both;
+}
+.div4{
+    float: left;
+    margin-left: 5%;
+    margin-right: 1%;
+    border-style: solid;
+    border-radius: 5px;
+}
+.div5{
+    float: left;
+    margin-right: 1%;
+    border-style: solid;
+    border-radius: 5px;
+}
+.div6{
+    float: left;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+h2{
+    margin-left: 5%;
+}
+
+
+
+footer{
+    background-color: lightslategray;
+    margin-top: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    display: block;
+    width: 2000px;
+}
+
+.dolje{
+    clear: both;
+    margin-left: 30%;
+    color: white;
+   
+}
+
+.clanakdiv{
+    width: 800px;
+    margin-top: 2%;
+    margin-left: 5%;
+    border-radius: 5px;
+    border-style: solid;
+    background-color: white;
+    
+}
+
+.boja2{
+   
+    background-color: red;
+}
+
+.tekst{
+    border-radius: 5px;
+    border-color: white;
+}
+
+.naslov{
+    width: 800px;
+    background-color: white;
+    margin-left: 5%;
+}
+
+.glavni{
+    float: left;
+    margin-left: 2%;
+}
+.glavni2{
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 400px;
+    background-color: white;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 300px;
+}
+
